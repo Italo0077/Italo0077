@@ -1,5 +1,5 @@
 # Bem-vindo, me chamo Ítalo ! 👋
-![Snake animation](https://github.com/seu-usuário-aqui/Italo0077/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Italo0077/Italo0077/blob/output/github-contribution-grid-snake.svg)
 <div>
 <a href="https://github.com/Italo0077">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italo0077&layout=compact&langs_count=7&theme=dracula"/>
